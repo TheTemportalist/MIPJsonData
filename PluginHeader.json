@@ -1,10 +1,10 @@
 {
   "plugins": [
     {
-      "plugin_title": "Vanilla Minecraft",
-      "plugin_id": "minecraft",
+      "plugin_title": "Demo Mod",
+      "plugin_id": "demo",
       "authors": [
-        "Mojang"
+        "No Author"
       ]
     }
   ]
