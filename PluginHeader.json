@@ -6,6 +6,13 @@
 			"authors": [
 				"Mojang"
 			]
+		},
+		{
+			"plugin_title": "CountryGamer Core",
+			"plugin_id": "core",
+			"authors": [
+				"Country_Gamer"
+			]
 		}
 	]
 }

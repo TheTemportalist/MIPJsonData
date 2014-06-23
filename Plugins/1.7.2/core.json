@@ -1,0 +1,23 @@
+{
+  "plugin_title":"CountryGamer Core",
+  "version":{
+    "minecraft":"1.7.2",
+    "plugin":"2.0.0"
+  },
+  "authors":[
+    {
+      "name":"Country_Gamer"
+    }
+  ],
+  "description":[
+  ],
+  "entities":[
+
+  ],
+  "items":[
+    
+  ],
+  "blocks":[
+    
+  ]
+}
