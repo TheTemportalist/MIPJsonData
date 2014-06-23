@@ -1,11 +1,18 @@
 {
-  "plugins": [
+  "1.7.2": [
+  	{
+    	"plugin_title": "Demo Mod",
+    	"plugin_id": "demo",
+    	"authors": [
+     		"No Author"
+    	]
+    },
     {
-      "plugin_title": "Demo Mod",
-      "plugin_id": "demo",
-      "authors": [
-        "No Author"
-      ]
+    	"plugin_title": "Minecraft",
+    	"plugin_id": "minecraft",
+    	"authors": [
+    		"Mojang"
+    	]
     }
   ]
 }
