@@ -13,37 +13,11 @@
     }
   ],
   "description":[
-    "The plain old Minecraft.",
-    "Developed by Mojang and has decided to take over the world."
   ],
-  "active":true,
   "entities":[
-    {
-      "name":"Pig",
-      "type":"Peaceful",
-      "health":"10",
-      "drops":[
-        {
-          "name":"Pork Chop",
-          "chance":"100%",
-          "rate_minimum":"1",
-          "rate_maximum":"3"
-        }
-      ],
-      "spawn_biomes":[
-        
-      ],
-      "spawn_height_minimum":"0",
-      "spawn_height_maximum":"120",
-      "notes":[
-        
-      ]
-    }
   ],
   "items":[
-    
   ],
   "blocks":[
-    
   ]
 }
